@@ -14,4 +14,11 @@ The program is about calculating the number of keywords repeated in a given stri
    
 After writing the code. The code will be runned by using the below commands. 
 
-##### gcc -o variable_name file_name.c
+#### gcc -o variable_name file_name.c
+
+If there are any errors the terminal will show the error below the above command. If there are no error the next step is to run the code. 
+
+#### ./a.out 
+
+
+
