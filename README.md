@@ -18,7 +18,13 @@ After writing the code. The code will be runned by using the below commands.
 
 If there are any errors the terminal will show the error below the above command. If there are no error the next step is to run the code. 
 
-#### ./a.out 
+### Testing. 
+
+After the code is excuted and runned succesfully in the local we than go to vulcan server to test. 
+
+After connecting to Vulcan server, First we import the .c file into vulcan servers by running scp commands in the command propmt. Than we check the code on the vulcan server by running it with different inputs. 
+
+
 
 
 
